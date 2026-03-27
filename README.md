@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya Dharshini</h1>
+<h1 align="center">Hi 👋, I'm Priyadharshini Karthikeyan</h1>
 <h3 align="center">A Passionate Product Designer | UX/UI Enthusiast | Creative Problem Solver</h3>
 
 <p align="center">
